@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import scipy
 from PIL import Image
 from scipy import ndimage
-from dnn_app_utils_v3 import *
+from dnn_app_utils import *
 
 %matplotlib inline
 plt.rcParams['figure.figsize'] = (5.0, 4.0) # set default size of plots
